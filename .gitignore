@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+outputs/
+label_emb_generate.py
+infer.sh
+train_second_stage.sh
+train_first_stage.sh
