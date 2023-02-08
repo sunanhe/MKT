@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 1. Download pretrained VLP(ViT-B/16) model from [OpenAI CLIP](https://github.com/openai/CLIP).
 
-2. Download images of NUS-WIDE dataset  from [Flick30k](http://shannon.cs.illinois.edu/DenotationGraph/).
+2. Download images of NUS-WIDE dataset  from [NUS-WIDE](https://lms.comp.nus.edu.sg/wp-content/uploads/2019/research/nuswide/NUS-WIDE.html).
 
 3. Download annotations following the [BiAM](https://github.com/akshitac8/BiAM) from [here](https://drive.google.com/drive/folders/1jvJ0FnO_bs3HJeYrEJu7IcuilgBipasA?usp=sharing).
 
