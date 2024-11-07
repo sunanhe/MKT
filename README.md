@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 2. Download images of NUS-WIDE dataset  from [NUS-WIDE](https://lms.comp.nus.edu.sg/wp-content/uploads/2019/research/nuswide/NUS-WIDE.html).
 
-3. Download annotations following the [BiAM](https://github.com/akshitac8/BiAM) from [here](https://drive.google.com/drive/folders/1jvJ0FnO_bs3HJeYrEJu7IcuilgBipasA?usp=sharing).
+3. Download annotations following the [BiAM](https://github.com/akshitac8/BiAM) from [here](https://pan.baidu.com/s/1v1c25oDg25FhkEUeb7Wt-g?pwd=7x6b).
 
 4. Download other files from [here](https://drive.google.com/drive/folders/1kTb83_p92fM04OAkGyiHypOgwtxc4wVa?usp=sharing).
 
